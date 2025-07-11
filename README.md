@@ -1,1 +1,1 @@
-# lesson_git
+# lesson_git Моя первая работа с гит!
